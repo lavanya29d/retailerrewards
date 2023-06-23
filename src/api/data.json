@@ -1,0 +1,33 @@
+[
+            {
+              "customerId": 1,
+              "customerName": "John",
+              "transactionAmount": 120,
+              "transactionDate": "05-01-2020"
+            },
+            {
+              "customerId": 1,
+              "customerName": "John",
+              "transactionAmount": 75,
+              "transactionDate": "05-21-2020"
+            },
+            {
+              "customerId": 1,
+              "customerName": "John",
+              "transactionAmount": 94,
+              "transactionDate": "05-21-2020"
+            },
+            {
+              "customerId": 1,
+              "customerName": "John",
+              "transactionAmount": 10,
+              "transactionDate": "06-01-2020"
+            },
+            {
+              "customerId": 1,
+              "customerName": "John",
+              "transactionAmount": 75,
+              "transactionDate": "06-21-2020"
+            }
+            
+]
